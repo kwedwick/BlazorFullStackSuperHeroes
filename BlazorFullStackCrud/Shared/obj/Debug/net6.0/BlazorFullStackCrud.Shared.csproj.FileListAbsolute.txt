@@ -1,0 +1,12 @@
+C:\Users\kwedw\OneDrive\Desktop\Coding Projects\BlazorFullStackCrud\BlazorFullStackCrud\Shared\bin\Debug\net6.0\BlazorFullStackCrud.Shared.deps.json
+C:\Users\kwedw\OneDrive\Desktop\Coding Projects\BlazorFullStackCrud\BlazorFullStackCrud\Shared\bin\Debug\net6.0\BlazorFullStackCrud.Shared.dll
+C:\Users\kwedw\OneDrive\Desktop\Coding Projects\BlazorFullStackCrud\BlazorFullStackCrud\Shared\bin\Debug\net6.0\BlazorFullStackCrud.Shared.pdb
+C:\Users\kwedw\OneDrive\Desktop\Coding Projects\BlazorFullStackCrud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\BlazorFullStackCrud.Shared.csproj.AssemblyReference.cache
+C:\Users\kwedw\OneDrive\Desktop\Coding Projects\BlazorFullStackCrud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\BlazorFullStackCrud.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwedw\OneDrive\Desktop\Coding Projects\BlazorFullStackCrud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\BlazorFullStackCrud.Shared.AssemblyInfoInputs.cache
+C:\Users\kwedw\OneDrive\Desktop\Coding Projects\BlazorFullStackCrud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\BlazorFullStackCrud.Shared.AssemblyInfo.cs
+C:\Users\kwedw\OneDrive\Desktop\Coding Projects\BlazorFullStackCrud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\BlazorFullStackCrud.Shared.csproj.CoreCompileInputs.cache
+C:\Users\kwedw\OneDrive\Desktop\Coding Projects\BlazorFullStackCrud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\BlazorFullStackCrud.Shared.dll
+C:\Users\kwedw\OneDrive\Desktop\Coding Projects\BlazorFullStackCrud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\refint\BlazorFullStackCrud.Shared.dll
+C:\Users\kwedw\OneDrive\Desktop\Coding Projects\BlazorFullStackCrud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\BlazorFullStackCrud.Shared.pdb
+C:\Users\kwedw\OneDrive\Desktop\Coding Projects\BlazorFullStackCrud\BlazorFullStackCrud\Shared\obj\Debug\net6.0\ref\BlazorFullStackCrud.Shared.dll
